@@ -53,7 +53,7 @@ const Login = () => {
   return (
     <div
       style={{
-        height: "100vh",
+        height: "100px",
         width: "100%",
         display: "flex",
         flexDirection: "column",
